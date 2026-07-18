@@ -1,0 +1,9 @@
+{
+  "build_no": 41,
+  "surum": "1.0.41",
+  "notlar": "Otomatik guncelleme sistemi devrede; combobox ve ayarlar sari-alan duzeltmeleri; otomatik yazici kurulumu",
+  "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
+  "sha256": "a1b12ac506608ab8c9772759b0fc4184b3ace59f2392aaa7536e704f2633109e",
+  "tarih": "2026-07-18 16:49",
+  "zorunlu": false
+}
