@@ -1,9 +1,9 @@
 {
-  "build_no": 42,
-  "surum": "1.0.42",
-  "notlar": "TEST: pencere basligina surum eklendi (v1.0.42) - otomatik guncelleme dogrulamasi",
+  "build_no": 43,
+  "surum": "1.0.43",
+  "notlar": "Kapatma/kucultme butonlari ana govdeden kaldirildi; pencereyi kapatinca secim penceresi (tepsiye kucult / gorev cubugu / komple kapat) cikar",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "b561818fd493c58b0b512b012bb2773cdac4e9f934889187e3c212caecaee7e5",
-  "tarih": "2026-07-18 16:57",
+  "sha256": "41cfd6c89f1ddeb5a2320f341e1b7b6d507cd486647d19556895400c80128a9e",
+  "tarih": "2026-07-18 17:37",
   "zorunlu": false
 }
