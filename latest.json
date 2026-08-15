@@ -1,9 +1,9 @@
 {
-  "build_no": 45,
-  "surum": "1.0.45",
-  "notlar": "Kisayola bir kez basildiginda etiketin iki kez basilmasi duzeltildi (hasta etiketi dahil). Ayrica ayni tusun iki ayri ise atanmasi artik engelleniyor ve uyari veriliyor.",
+  "build_no": 46,
+  "surum": "1.0.46",
+  "notlar": "Bir is = bir kisayol: ayni tusa iki is, ayni ise iki tus baglanamiyor. Kisayola bir kez basildiginda etiket iki kez basilmiyor.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "b80a3f4e7531fcd00b7ae82115e5c009a8c8e6387fcb5daf7ae3a76eb85290dc",
-  "tarih": "2026-08-15 14:57",
+  "sha256": "5d8a6365989f3d5ae091e0b9492c5057f3e0f376b3befe559aa53981677094f2",
+  "tarih": "2026-08-15 15:08",
   "zorunlu": false
 }
