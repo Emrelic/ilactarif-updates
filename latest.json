@@ -1,9 +1,9 @@
 {
-  "build_no": 44,
-  "surum": "1.0.44",
-  "notlar": "Saat basi otomatik guncelleme kontrolu; tasarimli guncelleme bildirim penceresi (degisiklikleri madde madde gosterir)",
+  "build_no": 45,
+  "surum": "1.0.45",
+  "notlar": "Kisayola bir kez basildiginda etiketin iki kez basilmasi duzeltildi (hasta etiketi dahil). Ayrica ayni tusun iki ayri ise atanmasi artik engelleniyor ve uyari veriliyor.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "cc5a03ca6396e4c3664a49eac8fd5a5765f7823d92209f20728f0d5db84cc6ad",
-  "tarih": "2026-07-18 18:03",
+  "sha256": "b80a3f4e7531fcd00b7ae82115e5c009a8c8e6387fcb5daf7ae3a76eb85290dc",
+  "tarih": "2026-08-15 14:57",
   "zorunlu": false
 }
