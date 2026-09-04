@@ -1,9 +1,9 @@
 {
-  "build_no": 46,
-  "surum": "1.0.46",
-  "notlar": "Bir is = bir kisayol: ayni tusa iki is, ayni ise iki tus baglanamiyor. Kisayola bir kez basildiginda etiket iki kez basilmiyor.",
+  "build_no": 47,
+  "surum": "1.0.47",
+  "notlar": "Kisayollar tum bilgisayarlarda ORTAK varsayilan oldu (Recete Sonu = Shift+End). Ctrl+Shift+U cakismasi cozuldu: 'Odenmeyen ilaclari bas' kisayolu calismiyordu, artik calisiyor. Ayrica dunku etiket duzeltmeleri: inhaler kapsulleri artik 'yutulur' demiyor, haftalik/aylik ilaclar gunluk etiketlenmiyor, folik asitte yanlis 'siyah diski normaldir' uyarisi kaldirildi, varfarine K vitamini ve siklosporine greyfurt uyarisi eklendi.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "5d8a6365989f3d5ae091e0b9492c5057f3e0f376b3befe559aa53981677094f2",
-  "tarih": "2026-08-15 15:08",
+  "sha256": "d2bc8576d1ae954b95e3f84fe8212d4a966225fb0a792f8905fa7b0ddbb2124e",
+  "tarih": "2026-09-04 17:18",
   "zorunlu": false
 }
