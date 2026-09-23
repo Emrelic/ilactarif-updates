@@ -1,9 +1,9 @@
 {
-  "build_no": 47,
-  "surum": "1.0.47",
-  "notlar": "Kisayollar tum bilgisayarlarda ORTAK varsayilan oldu (Recete Sonu = Shift+End). Ctrl+Shift+U cakismasi cozuldu: 'Odenmeyen ilaclari bas' kisayolu calismiyordu, artik calisiyor. Ayrica dunku etiket duzeltmeleri: inhaler kapsulleri artik 'yutulur' demiyor, haftalik/aylik ilaclar gunluk etiketlenmiyor, folik asitte yanlis 'siyah diski normaldir' uyarisi kaldirildi, varfarine K vitamini ve siklosporine greyfurt uyarisi eklendi.",
+  "build_no": 48,
+  "surum": "1.0.48",
+  "notlar": "Kisayollar tum bilgisayarlarda ORTAK sete cekiliyor: Recete sonu = Shift+End, Recete basi = Shift+Home, Sadece A etiketi = Shift+Insert, digerleri Ctrl+Shift+... (Kisayol Ayarlari'ndan degistirebilirsiniz; bundan sonra sizin secinizi korur.) Ayrica: guncelleme penceresi program tepside gizliyken de goruntuleniyor.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "d2bc8576d1ae954b95e3f84fe8212d4a966225fb0a792f8905fa7b0ddbb2124e",
-  "tarih": "2026-09-04 17:18",
+  "sha256": "568ab3a26a0e4a8f0e5ed1443a4eebc7395bc8c41df6090ff352dbec629fea43",
+  "tarih": "2026-09-23 10:53",
   "zorunlu": false
 }
