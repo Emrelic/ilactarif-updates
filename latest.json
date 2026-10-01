@@ -1,9 +1,9 @@
 {
-  "build_no": 50,
-  "surum": "1.0.50",
-  "notlar": "Kisayollar (Shift+End, Shift+Home, Ctrl+Shift+... hepsi) build 45'ten beri basildiginda sessizce hata verip calismiyordu; duzeltildi.",
+  "build_no": 51,
+  "surum": "1.0.51",
+  "notlar": "Ilac Tarif artik bilgisayarda tek kopya calisir: program aciksa tekrar tiklamak yeni pencere acmaz, acik olani one getirir (cift etiket basma onlenir).",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "9e684ab8457c2c9913a2a5e1d92fd7d402f1a629589eb7bcb4f9500f9d37bc69",
-  "tarih": "2026-10-01 15:59",
+  "sha256": "0328778c8fe39a78d5cdba1938180fc49e9c3cce8ed376623163c8149471710f",
+  "tarih": "2026-10-01 18:52",
   "zorunlu": false
 }
