@@ -1,9 +1,9 @@
 {
-  "build_no": 51,
-  "surum": "1.0.51",
-  "notlar": "Ilac Tarif artik bilgisayarda tek kopya calisir: program aciksa tekrar tiklamak yeni pencere acmaz, acik olani one getirir (cift etiket basma onlenir).",
+  "build_no": 52,
+  "surum": "1.0.52",
+  "notlar": "Etiket: SABAH-OGLE-AKSAM-GECE izgarasinda OLCEK/ml birimi saga, talimatin basina gecti ('1 OLCEK ICINIZ'); sol izgara puntosu artik kuculmuyor.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "0328778c8fe39a78d5cdba1938180fc49e9c3cce8ed376623163c8149471710f",
-  "tarih": "2026-10-01 18:52",
+  "sha256": "131d07829b65bb41eb07f33988cb978dae6babf8c3a97e1bda035ebc36d0f88f",
+  "tarih": "2026-10-13 14:00",
   "zorunlu": false
 }
