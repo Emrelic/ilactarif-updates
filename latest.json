@@ -1,15 +1,15 @@
 {
-  "build_no": 54,
-  "surum": "1.0.54",
-  "notlar": "KATALOG SENKRONU: etiket BILGISI (ilac formu, uygulama yolu, ogun iliskisi, doz birimi, etiket metinleri) artik guncelleme ile TUM bilgisayarlara gidiyor. Onceden kod gidiyordu ama veritabani kurulumda bir kez yazilip bir daha guncellenmediginden dunku etiket duzeltmelerinin bir kismi yalniz bu bilgisayarda kaliyordu. Eczaneye ait hicbir sey degismez: recete kayitlari, kendi etiket duzenlemeleriniz, makine ayarlariniz, satis/stok sayaclari korunur.",
+  "build_no": 55,
+  "surum": "1.0.55",
+  "notlar": "ALKOL UYARILARI: 'ALKOL YOK' rozeti 'ALKOL YASAK' oldu (metronidazol/ornidazol). Ayrica alkolun MUTLAK yasak oldugu 6 sinifta hic uyari yoktu, eklendi: ANTABUSE (disulfiram - ilacin tum etkisi alkolle tepkimedir; kolonya/gargara gibi gizli alkol uyarisi ve biraktiktan sonra 14 gun kurali dahil), damardan metronidazol/ornidazol, vajinal ornidazol, ketokonazol, griseofulvin (dogum kontrol hapini etkisizlestirir), sefoperazon. Izoniazid ve metformin uyarilarina da alkol cumlesi eklendi. Bu dort sinifta (disulfiram, damardan nitroimidazol, ketokonazol, griseofulvin) Ciddi Uyarilar etiketi varsayilan ISARETLI gelir.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "b1c0d1ea900cebf6e27334ea5cd25cdb957779fc830eddd61a65fcc07e78bd15",
-  "tarih": "2026-11-07 11:47",
+  "sha256": "2a4f5928e84eb0fbb7f94939381bce772594a9c2db6c8ef15eb7c083654b4349",
+  "tarih": "2026-11-07 12:09",
   "zorunlu": false,
   "katalog": {
-    "build": 54,
+    "build": 55,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
-    "sha256": "1566ad7c132875d3bbbbaa77560e3b9ee1df8cc5d7f33db04d2e9b3c1c44f3a7",
+    "sha256": "574150d9bda961dd23883fa303c33115d34c799e0cb81c4c0c3e4c8575427afc",
     "boyut": 5108458
   }
 }
