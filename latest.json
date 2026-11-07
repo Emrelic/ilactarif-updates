@@ -1,13 +1,13 @@
 {
-  "build_no": 56,
-  "surum": "1.0.56",
-  "notlar": "Alkol uyarilari: alkolun sakincali oldugu 16 ilac sinifinda etikette alkol uyarisi yok idi - eklendi (NSAII, varfarin, antiepileptik, kortizon, uyku ilaci, antidepresan, 1. kusak antihistaminik, sulfonilure, insulin, nitrat, PDE5, alfa-bloker, lityum). Metronidazol tipi mutlak yasakta 'ALKOL YASAK' rozeti. Etiket bilgisi katalogla birlikte gelir.",
+  "build_no": 57,
+  "surum": "1.0.57",
+  "notlar": "Bu guncellemeden SONRA guncellemeler kendi gelir: makine acilip Ilac Tarif'e tiklayinca yeni surum sormadan kurulur ve program kendini yeniden acar (calisirken kapanmaz, saat basi denetim yine sorar). Ayrica alkol uyarilari: alkolun sakincali oldugu 16 ilac sinifinda etikette alkol uyarisi yoktu - eklendi (NSAII, varfarin, antiepileptik, kortizon, uyku ilaci, antidepresan, 1. kusak antihistaminik, sulfonilure, insulin, nitrat, PDE5, alfa-bloker, lityum).",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "cb68115d62479fea1b114015b6e24e1cc8ecd69146d9c3ce059d80d0720b7e7d",
-  "tarih": "2026-11-07 12:32",
-  "zorunlu": false,
+  "sha256": "5c3eaeb8b40df61990ce272cd3acf43da9bd1faa47a9194c30c9981fde0f83ac",
+  "tarih": "2026-11-08 02:16",
+  "zorunlu": true,
   "katalog": {
-    "build": 56,
+    "build": 57,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
     "sha256": "333cf69b2cac4775de39135f43077ebb5dda52114119792daa4f27e0062005ea",
     "boyut": 5108437
