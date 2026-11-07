@@ -1,15 +1,15 @@
 {
-  "build_no": 55,
-  "surum": "1.0.55",
-  "notlar": "ALKOL UYARILARI: 'ALKOL YOK' rozeti 'ALKOL YASAK' oldu (metronidazol/ornidazol). Ayrica alkolun MUTLAK yasak oldugu 6 sinifta hic uyari yoktu, eklendi: ANTABUSE (disulfiram - ilacin tum etkisi alkolle tepkimedir; kolonya/gargara gibi gizli alkol uyarisi ve biraktiktan sonra 14 gun kurali dahil), damardan metronidazol/ornidazol, vajinal ornidazol, ketokonazol, griseofulvin (dogum kontrol hapini etkisizlestirir), sefoperazon. Izoniazid ve metformin uyarilarina da alkol cumlesi eklendi. Bu dort sinifta (disulfiram, damardan nitroimidazol, ketokonazol, griseofulvin) Ciddi Uyarilar etiketi varsayilan ISARETLI gelir.",
+  "build_no": 56,
+  "surum": "1.0.56",
+  "notlar": "Alkol uyarilari: alkolun sakincali oldugu 16 ilac sinifinda etikette alkol uyarisi yok idi - eklendi (NSAII, varfarin, antiepileptik, kortizon, uyku ilaci, antidepresan, 1. kusak antihistaminik, sulfonilure, insulin, nitrat, PDE5, alfa-bloker, lityum). Metronidazol tipi mutlak yasakta 'ALKOL YASAK' rozeti. Etiket bilgisi katalogla birlikte gelir.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "2a4f5928e84eb0fbb7f94939381bce772594a9c2db6c8ef15eb7c083654b4349",
-  "tarih": "2026-11-07 12:09",
+  "sha256": "cb68115d62479fea1b114015b6e24e1cc8ecd69146d9c3ce059d80d0720b7e7d",
+  "tarih": "2026-11-07 12:32",
   "zorunlu": false,
   "katalog": {
-    "build": 55,
+    "build": 56,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
-    "sha256": "574150d9bda961dd23883fa303c33115d34c799e0cb81c4c0c3e4c8575427afc",
-    "boyut": 5108458
+    "sha256": "333cf69b2cac4775de39135f43077ebb5dda52114119792daa4f27e0062005ea",
+    "boyut": 5108437
   }
 }
