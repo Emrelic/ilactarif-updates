@@ -1,9 +1,9 @@
 {
-  "build_no": 52,
-  "surum": "1.0.52",
-  "notlar": "Etiket: SABAH-OGLE-AKSAM-GECE izgarasinda OLCEK/ml birimi saga, talimatin basina gecti ('1 OLCEK ICINIZ'); sol izgara puntosu artik kuculmuyor.",
+  "build_no": 53,
+  "surum": "1.0.53",
+  "notlar": "ETIKET ICERIGI BUYUK DENETIM: (1) Tablette 'calkalayarak kullaniniz' gibi YANLIS SUNUM karismalari kalkti - barkodsuz satirda artik yanlis ilac/sunum eslesmiyor (PAROL 500 yerine PAROL PLUS gelmesi gibi). (2) Haftalik ilaclar: metotreksat 'HAFTADA 1 KEZ' + 'HER GUN KULLANMA' rozeti, bifosfonatlarda periyot doza gore (70 mg haftalik, 150 mg aylik). (3) Inhalasyon kapsulleri 'bir bardak su ile yutunuz' demiyor, teknik etiketi aliyor; kurtarici ve kontrol inhaleri ayri metin. (4) Doz birimi forma gore duzeldi (enjeksiyon 'DOZ', surup 'OLCEK', krem miktarsiz). (5) Sinif duzeyinde zorunlu uyarilar: sartanlarda GEBELIKTE YASAK, parasetamolde doz asimi, sefalosporinde alerji/ishal, insulinde hipoglisemi, montelukastta ruh hali. (6) Etkilesimler: statin+klaritromisin, metotreksat+Bactrim, nitrat+ereksiyon ilaci, PPI+klopidogrel. (7) 139 gercek ilac (Septix pastil, Anapolon, antiseptikler) 'cihaz' sanildigi icin HIC etiket almiyordu, artik aliyor. (8) 'ALKOL YOK' rozeti 'ALKOL YASAK' oldu. Ayrica 49-52 arasi duzeltmeler: kisayollar Windows RegisterHotKey ile (NumLock sorunu), tek kopya calisma, birim sutunu duzeni.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "131d07829b65bb41eb07f33988cb978dae6babf8c3a97e1bda035ebc36d0f88f",
-  "tarih": "2026-10-13 14:00",
+  "sha256": "88696a1838ab97f09a44c343c4307e0aafb4404e0989ee93b22cd8514672be2e",
+  "tarih": "2026-11-07 11:39",
   "zorunlu": false
 }
