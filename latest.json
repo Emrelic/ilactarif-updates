@@ -1,15 +1,15 @@
 {
-  "build_no": 57,
-  "surum": "1.0.57",
-  "notlar": "Bu guncellemeden SONRA guncellemeler kendi gelir: makine acilip Ilac Tarif'e tiklayinca yeni surum sormadan kurulur ve program kendini yeniden acar (calisirken kapanmaz, saat basi denetim yine sorar). Ayrica alkol uyarilari: alkolun sakincali oldugu 16 ilac sinifinda etikette alkol uyarisi yoktu - eklendi (NSAII, varfarin, antiepileptik, kortizon, uyku ilaci, antidepresan, 1. kusak antihistaminik, sulfonilure, insulin, nitrat, PDE5, alfa-bloker, lityum).",
+  "build_no": 58,
+  "surum": "1.0.58",
+  "notlar": "Etiket: sol doz kutusundaki yazi artik sigan en buyuk puntoyla alt alta diziliyor ('GUNDE / 1 / KEZ'); sayi biriminden kopmuyor, siklik ve doz iri kaliyor.",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "5c3eaeb8b40df61990ce272cd3acf43da9bd1faa47a9194c30c9981fde0f83ac",
-  "tarih": "2026-11-08 02:16",
-  "zorunlu": true,
+  "sha256": "30b0f8362d08bb098da60114fc2547cf61f149367e68141880dabe2958119804",
+  "tarih": "2026-11-25 16:40",
+  "zorunlu": false,
   "katalog": {
-    "build": 57,
+    "build": 58,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
-    "sha256": "333cf69b2cac4775de39135f43077ebb5dda52114119792daa4f27e0062005ea",
+    "sha256": "ee4b19fe6d400fb7f19ef59790ceddc4fb59058878964bfa60c5228427b1eb6b",
     "boyut": 5108437
   }
 }
