@@ -1,13 +1,13 @@
 {
-  "build_no": 59,
-  "surum": "1.0.59",
-  "notlar": "Majistral etiket: kullanim amaci sol ust, hasta adi sag ust koseye; kullanim sekli sigan en buyuk puntoyla, bilgiler tek etikete sigiyor.",
+  "build_no": 60,
+  "surum": "1.0.60",
+  "notlar": "Recete Basi sekmesinde sonradan eklenen ilacin bos 'Bu asamada yok' karti artik gosterilmiyor",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "8716700e91da956cf81897254f147adb1d0ca3d81f19660f98350cfc2088c8b2",
-  "tarih": "2026-11-25 18:15",
+  "sha256": "df102c8694b0ac2fd1f949c0a1356bb2664fa038362b4cc5e9adc174c0246532",
+  "tarih": "2026-11-25 18:18",
   "zorunlu": false,
   "katalog": {
-    "build": 59,
+    "build": 60,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
     "sha256": "ee4b19fe6d400fb7f19ef59790ceddc4fb59058878964bfa60c5228427b1eb6b",
     "boyut": 5108437
