@@ -1,13 +1,13 @@
 {
-  "build_no": 64,
-  "surum": "1.0.64",
-  "notlar": "Muadil verilen ilacta etiket artik recete basinda da sonunda da VERILEN ilaci gosterip basiyor; doktorun yazdigi ilac karttaki ayri sekmede yalniz goruntulenir",
+  "build_no": 65,
+  "surum": "1.0.65",
+  "notlar": "Etiket guvenligi: bazi antivirallerde yanlis 'GUNDE 5' sikligi, goz ici enjeksiyon / jel / fitil / burun spreyi / serum gibi urunlerde yanlis kullanim yolu duzeltildi",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "934ab27627317753f95be27f13a1b8e7e6f01940bf22fdbf435fc86382f7c44c",
-  "tarih": "2026-11-28 03:17",
+  "sha256": "5ec6acfe5ac6b0aee513a85a815245ec52de2733884af0f13d73cb14db446427",
+  "tarih": "2026-11-28 04:06",
   "zorunlu": false,
   "katalog": {
-    "build": 64,
+    "build": 65,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
     "sha256": "ee4b19fe6d400fb7f19ef59790ceddc4fb59058878964bfa60c5228427b1eb6b",
     "boyut": 5108437
