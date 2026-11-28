@@ -1,13 +1,13 @@
 {
-  "build_no": 65,
-  "surum": "1.0.65",
-  "notlar": "Etiket guvenligi: bazi antivirallerde yanlis 'GUNDE 5' sikligi, goz ici enjeksiyon / jel / fitil / burun spreyi / serum gibi urunlerde yanlis kullanim yolu duzeltildi",
+  "build_no": 66,
+  "surum": "1.0.66",
+  "notlar": "Elde olmayan (stokta yok) ilacin etiketi basilmaz, karti SARI cerceveli olur; ilac gelince Shift+End basar. Basilan etiketler YESIL cerceve ile kaydedilir, tekrar basilmaz. SGK'nin odemedigi ilaclar KIRMIZI, yalniz Ctrl+Shift+U ile basilir. Surupta '5, Adet' artik 1 OLCEK (ZINCO 'GUNDE 5 TANE' hatasi).",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "5ec6acfe5ac6b0aee513a85a815245ec52de2733884af0f13d73cb14db446427",
-  "tarih": "2026-11-28 04:06",
+  "sha256": "9615b07f6f27ff7583fce938bcfce215f260b2e490b6a288c01e1470f9cdec0e",
+  "tarih": "2026-11-28 05:34",
   "zorunlu": false,
   "katalog": {
-    "build": 65,
+    "build": 66,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
     "sha256": "ee4b19fe6d400fb7f19ef59790ceddc4fb59058878964bfa60c5228427b1eb6b",
     "boyut": 5108437
