@@ -1,13 +1,13 @@
 {
-  "build_no": 61,
-  "surum": "1.0.61",
-  "notlar": "Etiketin sag ust kosesinde ilacin ne ise yaradigi hasta dilinde yaziyor (CILT/GOZ ILACI yerine SEDEF ILACI, MANTAR ILACI, GOZ ALERJISI vb.); kagit recetede isimsiz kalan hasta adi TC'den tamamlaniyor",
+  "build_no": 62,
+  "surum": "1.0.62",
+  "notlar": "Etiketteki ilac adi kisaltildi ve buyutuldu: ad, mg, ml ve form; benzer urunlerden ayiran kelime (FORTE, RETARD, tablet sayisi) siyah kutuda",
   "zip_url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_update.zip",
-  "sha256": "1f396835710508253f1daf92b9f742dc1b52c181e1accc4d5f206a37cc5b57fd",
-  "tarih": "2026-11-25 18:33",
+  "sha256": "15c1776d474cf42f44eebba5f1c89aa3521617e311aea0eda008128fa673784d",
+  "tarih": "2026-11-28 03:12",
   "zorunlu": false,
   "katalog": {
-    "build": 61,
+    "build": 62,
     "url": "https://raw.githubusercontent.com/Emrelic/ilactarif-updates/main/ilactarif_katalog.db.gz",
     "sha256": "ee4b19fe6d400fb7f19ef59790ceddc4fb59058878964bfa60c5228427b1eb6b",
     "boyut": 5108437
